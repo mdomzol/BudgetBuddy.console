@@ -20,4 +20,4 @@ Projekt został stworzony w celach edukacyjnych.
 
 1. Sklonuj repozytorium:
    ```bash
-   git clone https://github.com/twoj-login/HouseholdExpensesCalculator.git
+   git clone https://github.com/mdomzol/BudgetBuddy.console
